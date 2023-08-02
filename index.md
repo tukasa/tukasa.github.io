@@ -20,6 +20,10 @@ layout: default
 <dd>tukasa</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
-<dt>好きな哲学者</dt>
-<dd>スピノザ</dd>
+<dt>ファイラ</dt>
+<dd>Paper Plane xUI</dd>
+<dt>エディタ</dt>
+<dd>xyzzy</dd>
+<dt>哲学者</dt>
+<dd>Spinoza</dd>
 </dl>
